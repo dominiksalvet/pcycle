@@ -13,8 +13,6 @@ pCycle processor was created in 2015 after building a redstone processor in Mine
 * All data are 4 bits wide
 * I/O ports in data memory space
 
-Long description.
-
 ## Useful Resources
 
 * [support.md](support.md) – questions, answers, help
