@@ -1,13 +1,13 @@
 ---
 name: Bug report
-about: Create a report to improve <project>
+about: Create a report to improve pCycle
 title: ''
 labels: bug
-assignees: <username>
+assignees: dominiksalvet
 ---
 
 **Environment**
-State \<project\> version and OS information.
+State pCycle version and relevant software information.
 
 **Description**
 Describe the bug.
