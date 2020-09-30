@@ -11,7 +11,7 @@ pCycle processor was created in 2015 after building a redstone processor in Mine
 * Harvard architecture
 * All instructions are 8 bits wide
 * All data are 4 bits wide
-* I/O ports in data memory space
+* Simple I/O ports
 
 ## Useful Resources
 
