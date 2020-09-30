@@ -1,6 +1,8 @@
 # pCycle
 
-![pCycle pipeline](img/pipeline.png)
+<p align="center">
+    <img src="img/pipeline.png" alt="pCycle pipeline" height="300">
+</p>
 
 > My first custom VHDL processor.
 
