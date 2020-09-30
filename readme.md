@@ -1,7 +1,7 @@
 # pCycle
 
 <p align="center">
-    <img src="img/pipeline.png" alt="pCycle pipeline" height="400">
+    <img src="img/pipeline.png" alt="pCycle pipeline" height="450">
 </p>
 
 > My first custom VHDL processor.
