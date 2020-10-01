@@ -1,7 +1,7 @@
 # pCycle
 
 <p align="center">
-    <img src="img/pipeline.png" alt="pCycle pipeline" width="470">
+    <img src="doc/img/pipeline.png" alt="pCycle pipeline" width="470">
 </p>
 
 > Accumulator-based 4-bit processor.
