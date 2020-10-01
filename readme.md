@@ -1,12 +1,14 @@
 # pCycle
 
 <p align="center">
-    <img src="img/pipeline.png" alt="pCycle pipeline" height="450">
+    <img src="img/pipeline.png" alt="pCycle pipeline" width="470">
 </p>
 
 > Accumulator-based 4-bit processor.
 
-pCycle (pronounced "pico cycle") processor was created in 2015 after building a redstone processor in Minecraft. The main purpose of pCycle was to apply knowledge gained from that game into real RTL design. As it was my first custom VHDL processor, pCycle was designed in a very simple manner – it is 4-bit and uses the accumulator architecture. And that's almost it. Some of pCycle highlights:
+pCycle (pronounced "pico cycle") processor was created in 2015 after building a redstone processor in Minecraft. The main purpose of pCycle was to apply knowledge gained from that game into real RTL design. As it was my first custom VHDL processor, pCycle was designed in a very simple manner and contains a lot of beginner mistakes. Nevertheless, its code was tested on a Cyclone II FPGA at the time.
+
+The processor itself is 4-bit and uses the accumulator architecture. Some of its highlights:
 
 * Harvard architecture
 * All instructions are 8 bits wide
